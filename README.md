@@ -41,8 +41,10 @@ Usage of ./XChat:
 
 **强烈建议自定义 key**
 ```bash
-kali$ ./XChat -key "admin666" -port 9999
+kali$ ./XChat -key "******"
 ```
+<img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/run.png">
+
 ### 功能预览
 <img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/file.png">
 <img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/markdown.png">
