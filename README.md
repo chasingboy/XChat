@@ -44,3 +44,9 @@ Usage of ./XChat:
 kali$ ./XChat -key "admin666" -port 9999
 ```
 ### 功能预览
+<img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/file.png">
+<img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/markdown.png">
+<img width="1316" alt="image" src="https://github.com/chasingboy/XChat/blob/main/assets/chat.png">
+
+### 更新记录
+[+] 2026-04-15【发布】XChat V1.0.0
