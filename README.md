@@ -1,7 +1,7 @@
 <h1 align="center">XChat</h1>
 <h3 align="center">XChat 是一款集文件共享、聊天与 Markdown 编辑于一体的内网协作工具</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-V1.0.0-green?style=flat">
+  <img src="https://img.shields.io/badge/Version-V1.0.2-green?style=flat">
   <img src="https://img.shields.io/github/stars/chasingboy/XChat?style=flat&labelColor=rgb(41%2C52%2C52)&color=green">
   <img src="https://img.shields.io/github/issues/chasingboy/XChat">
   <img src="https://img.shields.io/github/downloads/chasingboy/XChat/total?style=flat&labelColor=rgb(41%2C52%2C52)&color=green">
